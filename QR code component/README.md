@@ -1,10 +1,5 @@
-# Frontend Mentor - QR code component solution
 # Frontend Mentor - QR 碼元件解答
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-這是 [Frontend Mentor 上 QR 碼元件挑戰](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) 的解答。Frontend Mentor 挑戰透過打造實際專案，幫助你提升程式設計技能。
-
-## Table of contents
 ## 目錄
 
 - [Overview](#overview)
@@ -25,33 +20,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     （實用資源）
 - [Author](#author)
   （作者）
-- [Acknowledgments](#acknowledgments)
-  （致謝）
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-**注意：刪除此說明，並根據你保留的章節更新目錄。**
 
-## Overview
 ## 概覽
 
-### Screenshot
 ### 截圖
 
-![](./screenshot.jpg)
+![](./screen.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-新增你解答的截圖。最簡單的方式是使用 Firefox 瀏覽你的專案，右鍵點擊頁面並選擇「Take a Screenshot」（擷取截圖）。你可以根據頁面長度選擇完整高度截圖或裁切版本。如果頁面很長，最好進行裁切。
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-或者，你可以使用像 [FireShot](https://getfireshot.com/) 這樣的工具來擷取截圖。FireShot 有免費版本，所以你不需要購買。
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-然後依喜好裁切/優化/編輯你的圖片，將其加入專案，並更新上方圖片的檔案路徑。
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-**注意：新增截圖後，請刪除此說明及以上段落。如果你不想新增截圖，可以隨意刪除整個段落。**
-
-### Links
 ### 連結
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
