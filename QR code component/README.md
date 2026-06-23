@@ -30,7 +30,7 @@
 
 ### 連結
 
-- 解答網址: [Add solution URL here](https://e6320123.github.io/frontend-mentor/QR%20code%20component/)
+- 實做網址: [QR-code](https://e6320123.github.io/frontend-mentor/QR%20code%20component/)
 
 
 ## 我的流程
